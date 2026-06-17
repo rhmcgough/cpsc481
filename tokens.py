@@ -1,5 +1,0 @@
-# llm api access token
-OPENAI_API_KEY = 'v4O82UW5wFxsPzbJ5LV9O7KfdsZYxOJv'
-
-# chatbox token
-chatbox_token = '{ "id": "custom-provider-963ccbe7-7e74-4dbe-beda-8054a6590245", "name": "NRP", "type": "openai", "settings": { "apiHost": "https://ellm.nrp-nautilus.io", "apiKey": "PO37dDPYud9766oJXF9MZBuaYzoczoCW", "models": [ { "modelId": "qwen3", "capabilities": [ "reasoning", "vision", "tool_use" ], "contextWindow": 1010000 }, { "modelId": "qwen3-small", "capabilities": [ "reasoning", "vision", "tool_use" ], "contextWindow": 1010000 }, { "modelId": "gpt-oss", "capabilities": [ "reasoning", "tool_use" ], "contextWindow": 131072 }, { "modelId": "gemma", "capabilities": [ "reasoning", "vision", "tool_use" ], "contextWindow": 262144 }, { "modelId": "gemma-small", "capabilities": [ "reasoning", "vision", "tool_use" ], "contextWindow": 131072 }, { "modelId": "kimi", "capabilities": [ "reasoning", "vision", "tool_use" ], "contextWindow": 262144 }, { "modelId": "glm-5", "capabilities": [ "reasoning", "tool_use" ], "contextWindow": 202752 }, { "modelId": "minimax-m2", "capabilities": [ "reasoning", "tool_use" ], "contextWindow": 204800 } ] } }'
